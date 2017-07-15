@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-	<b>✨ Prelaunching the <a href="https://awesomeweekly.co">Awesome Weekly</a> newsletter! ✨</b>
+	<b>✨ Prelaunching the <a href="https://awesomeopus.com">Awesome Opus</a> newsletter! ✨</b>
 	<b> Vote it up on <a href="https://www.producthunt.com/posts/awesome-weekly">Product Hunt</a></b>
 </p>
 
@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-	<sub>Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="http://www.itdevops.me">blog</a> and follow me on <a href="https://twitter.com/Ivyivyli">Twitter</a>.</sub>
+	<sub>Check out my <a href="http://www.itdevops.me">blog</a> and follow me on <a href="https://twitter.com/Ivyivyli">Twitter</a> or <a href="http://weibo.com/wh211212/">Weibo</a>.</sub>
 </p>
 
 
@@ -45,7 +45,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 # Artificial Intelligence
 
 # Programing Language
-    - [Awesome-Python](https://github.com/itdevops/awesome-python#awesome-python)
+
+- [Awesome-Python](https://github.com/itdevops/awesome-python#awesome-python)
 
 # Database
 
@@ -58,5 +59,3 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 # Books
 
 # Global Top 20 Company
-
-    - [Awesome-Python](https://github.com/itdevops/awesome-python#awesome-python)
