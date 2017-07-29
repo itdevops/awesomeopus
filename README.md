@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img width="400" src="https://cdn.rawgit.com/itdevops/awesomeopus/6769af43/source/images/logo.png" alt="Awesome">
+	<img width="400" src="http://otu3o5uys.bkt.clouddn.com/awesomeopus-logo" alt="Awesome">
 	<br>
 	<br>
 </h1>
