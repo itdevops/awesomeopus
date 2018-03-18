@@ -46,8 +46,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 # Programing Language
 
-- [Awesome-Python](https://github.com/itdevops/awesome-python#awesome-python)
-
+- [Awesome-Python] https://github.com/vinta/awesome-python
 # Database
 
 # System
@@ -56,6 +55,3 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 
 # Devops Tools
 
-# Books
-
-# Global Top 20 Company
